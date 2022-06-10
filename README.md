@@ -37,6 +37,9 @@ Delete a reservation if necessary.
     <img width="450" height="380" src="https://user-images.githubusercontent.com/67929106/173120805-809d81b4-ad62-493a-b8e2-a8a77e89818a.png">
 </p>
 
+# Licence 
+##### Distributed under the MIT Licence.
+
 # NB
 user - admin / 
 password - admin
