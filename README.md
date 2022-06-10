@@ -18,18 +18,25 @@ Delete a reservation if necessary.
 
 # Interfaces 
 # Login Interface 
-
-![image](https://user-images.githubusercontent.com/67929106/173120285-dc73b421-8333-4c98-af4f-60d25e932dab.png)
+<p>
+    <img width="450" height="380" src="https://user-images.githubusercontent.com/67929106/173120285-dc73b421-8333-4c98-af4f-60d25e932dab.png">
+ </p>
 
 # Interface Management
-![image](https://user-images.githubusercontent.com/67929106/173120363-7590289e-c19b-4a7e-9ccd-a5c18c39c306.png)
+<p>
+    <img width="450" height="380" src="https://user-images.githubusercontent.com/67929106/173120363-7590289e-c19b-4a7e-9ccd-a5c18c39c306.png">
+</p>
 
 # Invoice Interface
-![image](https://user-images.githubusercontent.com/67929106/173120502-5dc768d7-4a9e-4fb8-9581-15cf2ac3767a.png)
+<p>
+    <img width="450" height="380" src="https://user-images.githubusercontent.com/67929106/173120502-5dc768d7-4a9e-4fb8-9581-15cf2ac3767a.png">
+</p>
 
 # Meal interface
-![image](https://user-images.githubusercontent.com/67929106/173120805-809d81b4-ad62-493a-b8e2-a8a77e89818a.png)
+<p>
+    <img width="450" height="380" src="https://user-images.githubusercontent.com/67929106/173120805-809d81b4-ad62-493a-b8e2-a8a77e89818a.png">
+</p>
 
-
-user - admin
+# NB
+user - admin / 
 password - admin
